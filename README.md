@@ -33,7 +33,7 @@ De uma forma simples, a finalidade é disponibilizar o projeto para estudo e apr
 
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+Abaixo segue o que foi utilizado na criação deste app:
 
 - [React Native](http://facebook.github.io/react-native/) - O React Native é um framework que permite o desenvolvimento de aplicações mobile usando Javascript e React;
 - [React Navigation](https://reactnavigation.org/) - O React Navigation surgiu da necessidade comunidade do React Native de uma navegação de forma fácil de se usar, e escrita toda em Javascript;
