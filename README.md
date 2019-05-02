@@ -17,8 +17,11 @@
    <h3 align="center">Githuber App</h3>
 </p>
  <br />
+ <p align="center">
+
+ </p>
  <br />
-<p align="center">   
+<p align="center">
    <a href="https://ibb.co/23SRSjm"><img src="https://i.ibb.co/23SRSjm/screenshot-2019-05-01-02-00-02-05.png" alt="screenshot-2019-05-01-02-00-02-05" border="0"></a> <a href="https://ibb.co/47YzrFM"><img src="https://i.ibb.co/47YzrFM/screenshot-2019-05-01-02-00-22-427.png" alt="screenshot-2019-05-01-02-00-22-427" border="0"></a> <a href="https://ibb.co/92d768t"><img src="https://i.ibb.co/92d768t/screenshot-2019-05-01-02-00-32-97.png" alt="screenshot-2019-05-01-02-00-32-97" border="0"></a> <a href="https://ibb.co/cCxV035"><img src="https://i.ibb.co/cCxV035/screenshot-2019-05-01-02-00-52-044.png" alt="screenshot-2019-05-01-02-00-52-044" border="0"></a>
 </p>
 
@@ -28,6 +31,12 @@
 
 Este projeto surgiu em um dos módulos ministrados no bootcamp da Rocketseat. Seu objetivo é gerenciar visualmente sua produção no Github. Através do seu usuário, que é fornecido no início do app, consumimos a API do Github para apresentar seus repositórios, organizações e issues.
 De uma forma simples, a finalidade é disponibilizar o projeto para estudo e aprendizado.
+
+ <br />
+ <p align="center">
+    <a href="https://ibb.co/DKZzm5B"><img src="https://i.ibb.co/DKZzm5B/bloggif-5cca57c153aa1.gif" alt="bloggif-5cca57c153aa1" border="0"></a>
+ </p>
+<br />
 
 ### Feito Com
 
@@ -123,7 +132,9 @@ git clone https://github.com/awmoreira/githubapp.git
 ```sh
 yarn
 ```
+
 ou
+
 ```sh
 npm install
 ```
